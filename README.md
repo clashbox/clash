@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://github.com/clashbox/clash" title="Clash下载资源中文官网分享">
+  <a href="https://github.com/clashbox/clash" title="Clash 分步下载与安装核对">
 <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/43b0c4b5-4ec2-42b7-87f5-2cde0e6d4e13" />
 
   </a>
-  <h1>Clash下载资源中文官网分享 (2026年11月更新)</h1>
+  <h1>Clash 分步下载与安装核对 (2026年11月更新)</h1>
   <p>
-    <b>Clash全平台下载资源中文官网分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>从选系统到安装后自检的一条路线图</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.11-brightgreen.svg" alt="Update">
@@ -24,7 +24,7 @@
 
 ## 1. 本页说明
 
-本仓库按 **Clash下载资源中文官网分享** 整理：用「分步路线」把仍在维护的客户端、停更备份、订阅旁证和注意项串成一条阅读路径，方便按系统落到官方 **GitHub Releases**。
+本仓库按 **Clash 分步下载与安装核对** 整理：用「分步路线」把仍在维护的客户端、停更备份、订阅旁证和注意项串成一条阅读路径，方便按系统落到官方 **GitHub Releases**。
 
 | 本页提供 | 本页不提供 |
 |:---------|:-----------|
